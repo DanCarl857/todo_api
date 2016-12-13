@@ -1,8 +1,6 @@
 package org.daniel.tragent.todo_list.models;
 
-import javax.xml.bind.annotation.XmlRootElement;
 
-@XmlRootElement
 public class Users {
 	
 	private long id;
